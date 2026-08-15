@@ -1,6 +1,5 @@
 import os
 import sys
-from src.components.model_trainer import ModelTrainer
 from src.logger import logging
 from src.exception import CustomException
 import pandas as pd
